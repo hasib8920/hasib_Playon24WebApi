@@ -1,0 +1,6 @@
+@hasib_Playon24WebApi_HostAddress = http://localhost:5196
+
+GET {{hasib_Playon24WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
