@@ -80,5 +80,6 @@ Features:
 4. Notes
 
 - Start backend before frontend.
+- Make sure to run `npm install` before starting Angular app.
 - Attendance POST uses Table-Valued Parameter to insert multiple records.
 - Dapper is used in backend for all stored procedure calls.
